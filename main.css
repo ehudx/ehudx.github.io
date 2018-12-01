@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    direction: rtl;
+    font-family: Tahoma;
+}
+
+#header{
+    text-align: center;
+    margin: 10px;
+    background: lightblue;
+    border: 3px double black;
+    padding: 5px;
+}
+
+#navbar{
+    text-align: center;
+    margin: 10px;
+    background: lightblue;
+    border: 3px double black;
+    padding: 5px;
+}
+
+#main{
+    text-align: right;
+    margin: 10px;
+    background: lightblue;
+    border: 3px double black;
+    padding: 5px;
+    
+}
+
+#minibox{
+    border: 3px double black;
+    text-align: right;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+.inline{
+    float: right;
+}
+
+.clearBoth {
+    clear:both;
+}
+
+
+
